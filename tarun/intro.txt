@@ -1,0 +1,5 @@
+Hello, my name is Tarun K, and I am a final-year B.Tech student specializing in Computer Science.
+I have a strong interest in Python full stack development and AI/ML applications.
+Currently, I am doing a long-term internship at 360digitmg.com.
+I enjoy building real-world projects, such as an Employee Record Management System using Python.
+My goal is to create technology solutions that help people and future generations.
