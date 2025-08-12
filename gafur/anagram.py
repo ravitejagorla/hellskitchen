@@ -1,0 +1,10 @@
+a=input("Enter any string: ")
+b=input("Enter any string:")
+a=a.lower()
+b=b.lower()
+if len(a)==len(b):
+    s1=sorted(a)
+    s2=sorted(b)
+    if s1==s2:print("The given strings are Anagram")
+    else:print("Given strings are not Anagram")
+else:print("The given strings are not Anagram")
